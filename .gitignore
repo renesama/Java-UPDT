@@ -1,0 +1,5 @@
+#Intellij
+out/
+.DS_Store
+Ejemplo-1/.idea
+Ejemplo-1/*.iml
