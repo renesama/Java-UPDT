@@ -54,10 +54,10 @@ public class Main {
         String e = String.valueOf(doubleVar);// convierte doubleVar a string y lo guarda en e;
         String f = String.valueOf(booleanVar);// convierte booleanVar a string y lo guarda en f;
         String g = Byte.toString(biteVar); //convierte biteVar a string y lo guarda en g;
-        String h = Short.toString(shortVar); //convierte shorVar a string y lo guarda en g;
-        //El convertir los tipos de datos primitivos a string no permite mostarlos com texto en
+        String h = Short.toString(shortVar); //convierte shorVar a string y lo guarda en h;
+        //El convertir los tipos de datos primitivos a string nos permite mostarlos como texto en
         // una aplcacion de escritorio o web al igual que la clase String, las clases
-        //Byte, Short, Integer, Long, Float, Double, Boolean, Character, cuantan con distintos metodos
-        //que le fasilitan el trabajo al programador
+        //Byte, Short, Integer, Long, Float, Double, Boolean, Character, cuentan con distintos metodos
+        //que le facilitan el trabajo al programador
     }
 }
