@@ -14,7 +14,7 @@ public class Main {
             writer.println("Este es un texto de ejemplo ^_^ ");
             writer.close();
         } catch (IOException e) { //si algo sale mal manda una excecion
-            e.printStackTrace(); 
+            e.printStackTrace();
         } finally { //este bloque siempre se ejecuta
             System.out.println("bloque finally");
         }
