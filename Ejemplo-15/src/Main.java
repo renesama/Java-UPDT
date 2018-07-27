@@ -18,8 +18,8 @@ public class Main {
         } finally { //este bloque siempre se ejecuta
             System.out.println("bloque finally");
         }
-        //Lectrura de  archivo
 
+        //Lectrura de  archivo
         String fileName = "ejemplo.txt"; // El nombre del archivo a leer
         String line = null; // este variable giarda una linea del archivo
         try {
